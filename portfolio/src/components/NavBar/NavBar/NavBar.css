@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 40px;
+    background-color: #121212;
+    color: #fff;
+    position:fixed;
+    width: 100%;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+  }
+  
+  .navbar-brand {
+    font-family: 'Inter', sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+  }
+  
+  .navbar-menu {
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    
+  }
+  
+  .navbar-menu li a {
+    color: #fff;
+    font-size: 150%;
+  }
+  
+  .navbar-menu li a:hover {
+    color: #4FC3F7;
+  }
+  
+ 
+  @media (max-width: 768px) {
+    .navbar {
+      flex-direction: column;
+    }
+  
+    .navbar-menu {
+      flex-direction: column;
+      align-items: center;
+      margin-top: 10px;
+    }
+  }
+  
