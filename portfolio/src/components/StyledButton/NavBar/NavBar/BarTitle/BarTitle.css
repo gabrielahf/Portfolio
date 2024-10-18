@@ -1,0 +1,9 @@
+.title-bar {
+    width: 80rem; 
+    height: 0.3rem; 
+    background: linear-gradient(90deg, #4FC3F7 3%, #4FC3F7 100%);
+    margin-left: 3.5rem; 
+    margin-top: 10px; 
+}
+
+

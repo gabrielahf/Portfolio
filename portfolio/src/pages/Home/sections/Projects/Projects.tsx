@@ -49,11 +49,10 @@ const Projects: React.FC = () => {
             >
                 {projects.map((project, index) => (
                     <SwiperSlide key={index}>
-
                         <a href={project.link} target="_blank" rel="noopener noreferrer" className="project-link">
                             <div className="slide-content">
                                 <img src={project.image} alt={project.title} className="project-image" />
-                                <h3>{project.title}</h3>
+                                <h3 className="project-card-title">{project.title}</h3>
                             </div>
                         </a>
                     </SwiperSlide>

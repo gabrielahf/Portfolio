@@ -1,0 +1,82 @@
+{
+  "hash": "b79b19b3",
+  "configHash": "2d2ad30a",
+  "lockfileHash": "d45526a5",
+  "browserHash": "fff39984",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "4bd94651",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "0c58e77d",
+      "needsInterop": true
+    },
+    "@mui/material": {
+      "src": "../../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "910a0a47",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LinkedIn": {
+      "src": "../../../node_modules/@mui/icons-material/esm/LinkedIn.js",
+      "file": "@mui_icons-material_LinkedIn.js",
+      "fileHash": "f324d312",
+      "needsInterop": false
+    },
+    "@mui/icons-material/GitHub": {
+      "src": "../../../node_modules/@mui/icons-material/esm/GitHub.js",
+      "file": "@mui_icons-material_GitHub.js",
+      "fileHash": "40798937",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Download": {
+      "src": "../../../node_modules/@mui/icons-material/esm/Download.js",
+      "file": "@mui_icons-material_Download.js",
+      "fileHash": "019cc423",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Email": {
+      "src": "../../../node_modules/@mui/icons-material/esm/Email.js",
+      "file": "@mui_icons-material_Email.js",
+      "fileHash": "9330276f",
+      "needsInterop": false
+    },
+    "swiper/react": {
+      "src": "../../../node_modules/swiper/swiper-react.mjs",
+      "file": "swiper_react.js",
+      "fileHash": "8aaee8eb",
+      "needsInterop": false
+    },
+    "swiper/modules": {
+      "src": "../../../node_modules/swiper/modules/index.mjs",
+      "file": "swiper_modules.js",
+      "fileHash": "1fc045b6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TWJRYSII": {
+      "file": "chunk-TWJRYSII.js"
+    },
+    "chunk-GUAQH6CP": {
+      "file": "chunk-GUAQH6CP.js"
+    },
+    "chunk-67XHMHZA": {
+      "file": "chunk-67XHMHZA.js"
+    },
+    "chunk-IKAT3PPM": {
+      "file": "chunk-IKAT3PPM.js"
+    },
+    "chunk-6DGY4ZYD": {
+      "file": "chunk-6DGY4ZYD.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
+}
